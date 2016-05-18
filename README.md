@@ -19,7 +19,11 @@ Now lets pull but take the master changes:
 (In your normal repos to get Jim's changes, use `git pull upstream master -s recursive -X theirs`)
 
 
+<<<<<<< HEAD
 2. Edit this with your last name Tabony.
+=======
+2. Edit this with your last name *McChicken*.
+>>>>>>> 1e8d41a8d1d14c58ff08104e7731dc9ca076837e
 ----------------------------------------------
 Now lets pull but take our local changes: 
 `git pull upstream master -s recursive -X ours`
